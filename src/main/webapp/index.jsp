@@ -6,7 +6,7 @@
   
   <h2> Call Us : +237-650461824 / +237 - 676631323 </h2>
   
-  <h3> Email us at Zicotek2one@gmail.com </h3>
+  <h3> Email us at ianjason2025@gmail.com </h3>
 
  <h4> Our Office is location at Molyko, Buea Cameroon </h4>
 </body>
