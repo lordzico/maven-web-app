@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='sky blue'> Welcome to Zicotek2one IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Zicotek2one IT - Software Training Institute <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Zicotek2one IT Training Schedules</a>
   
